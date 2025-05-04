@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Backend and Next.js
 - 💬 Ask me anything about MERN
 - 📫 How to reach me: karwasarit672@gmail.com
-- ⚡ Fun fact: I love listening to music.
+- ⚡ Always looking for new things to learn.
   
 
 
