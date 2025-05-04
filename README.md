@@ -1,6 +1,6 @@
- <h1 align="center">Hi 👋, I'm Asif Taj</h1>
+ <h1 align="center">Hi 👋, I'm Sarita Karwa</h1>
 
-- 🌱 I’m currently learning Backend
+- 🌱 I’m currently learning Backend and Next.js
 - 💬 Ask me anything about MERN
 - 📫 How to reach me: karwasarit672@gmail.com
 - ⚡ Fun fact: I love listening to music.
